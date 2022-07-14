@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+x = 3
+# Fixed the error by setting x equal to a number. 
